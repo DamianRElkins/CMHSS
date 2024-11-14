@@ -1,0 +1,3902 @@
+[
+  {
+    "name": "Aldridge-Brownhills",
+    "self": 1,
+    "total": 24,
+    "ratio": 0.041666666666666664
+  },
+  {
+    "name": "Arundel and South Downs",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ashfield",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ashford",
+    "self": 3,
+    "total": 20,
+    "ratio": 0.15
+  },
+  {
+    "name": "Banbury",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Barking",
+    "self": 5,
+    "total": 60,
+    "ratio": 0.08333333333333333
+  },
+  {
+    "name": "Basildon and Billericay",
+    "self": 16,
+    "total": 18,
+    "ratio": 0.8888888888888888
+  },
+  {
+    "name": "Beckenham",
+    "self": 1,
+    "total": 4,
+    "ratio": 0.25
+  },
+  {
+    "name": "Bermondsey and Old Southwark",
+    "self": 2,
+    "total": 78,
+    "ratio": 0.02564102564102564
+  },
+  {
+    "name": "Bexhill and Battle",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Birmingham, Ladywood",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Birmingham, Selly Oak",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bishop Auckland",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Blackpool North and Cleveleys",
+    "self": 3,
+    "total": 40,
+    "ratio": 0.075
+  },
+  {
+    "name": "Altrincham and Sale West",
+    "self": 0,
+    "total": 17,
+    "ratio": 0.0
+  },
+  {
+    "name": "Blackpool South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Amber Valley",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bolton North East",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Aylesbury",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bolton South East",
+    "self": 0,
+    "total": 53,
+    "ratio": 0.0
+  },
+  {
+    "name": "Barnsley Central",
+    "self": 6,
+    "total": 141,
+    "ratio": 0.0425531914893617
+  },
+  {
+    "name": "Bootle",
+    "self": 3,
+    "total": 119,
+    "ratio": 0.025210084033613446
+  },
+  {
+    "name": "Barnsley East",
+    "self": 0,
+    "total": 170,
+    "ratio": 0.0
+  },
+  {
+    "name": "Brent Central",
+    "self": 0,
+    "total": 35,
+    "ratio": 0.0
+  },
+  {
+    "name": "Barrow and Furness",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Brighton, Kemptown",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Basingstoke",
+    "self": 0,
+    "total": 4,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bristol East",
+    "self": 0,
+    "total": 151,
+    "ratio": 0.0
+  },
+  {
+    "name": "Battersea",
+    "self": 29,
+    "total": 237,
+    "ratio": 0.12236286919831224
+  },
+  {
+    "name": "Bristol North West",
+    "self": 0,
+    "total": 100,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bedford",
+    "self": 0,
+    "total": 21,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bristol South",
+    "self": 0,
+    "total": 61,
+    "ratio": 0.0
+  },
+  {
+    "name": "Berwick-upon-Tweed",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bristol West",
+    "self": 5,
+    "total": 59,
+    "ratio": 0.0847457627118644
+  },
+  {
+    "name": "Bethnal Green and Bow",
+    "self": 0,
+    "total": 14,
+    "ratio": 0.0
+  },
+  {
+    "name": "Broxbourne",
+    "self": 0,
+    "total": 8,
+    "ratio": 0.0
+  },
+  {
+    "name": "Beverley and Holderness",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Burton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Birmingham, Northfield",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bury St Edmunds",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Birmingham, Perry Barr",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Calder Valley",
+    "self": 0,
+    "total": 2,
+    "ratio": 0.0
+  },
+  {
+    "name": "Blackburn",
+    "self": 1,
+    "total": 9,
+    "ratio": 0.1111111111111111
+  },
+  {
+    "name": "Camborne and Redruth",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "Blaydon",
+    "self": 0,
+    "total": 48,
+    "ratio": 0.0
+  },
+  {
+    "name": "Cambridge",
+    "self": 5,
+    "total": 73,
+    "ratio": 0.0684931506849315
+  },
+  {
+    "name": "Blyth Valley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Aldershot",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Cannock Chase",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bolton West",
+    "self": 0,
+    "total": 40,
+    "ratio": 0.0
+  },
+  {
+    "name": "Ashton-under-Lyne",
+    "self": 0,
+    "total": 101,
+    "ratio": 0.0
+  },
+  {
+    "name": "Canterbury",
+    "self": 5,
+    "total": 61,
+    "ratio": 0.08196721311475409
+  },
+  {
+    "name": "Boston and Skegness",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bassetlaw",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Carlisle",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bournemouth East",
+    "self": 3,
+    "total": 27,
+    "ratio": 0.1111111111111111
+  },
+  {
+    "name": "Bath",
+    "self": 1,
+    "total": 178,
+    "ratio": 0.0056179775280898875
+  },
+  {
+    "name": "Chelmsford",
+    "self": 0,
+    "total": 13,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bournemouth West",
+    "self": 1,
+    "total": 15,
+    "ratio": 0.06666666666666667
+  },
+  {
+    "name": "Batley and Spen",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Cheltenham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bracknell",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Beaconsfield",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Chichester",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bradford East",
+    "self": 0,
+    "total": 55,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bexleyheath and Crayford",
+    "self": 13,
+    "total": 23,
+    "ratio": 0.5652173913043478
+  },
+  {
+    "name": "Christchurch",
+    "self": 0,
+    "total": 108,
+    "ratio": 0.0
+  },
+  {
+    "name": "Braintree",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Birkenhead",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Cities of London and Westminster",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Brent North",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Birmingham, Edgbaston",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "City of Chester",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bridgwater and West Somerset",
+    "self": 19,
+    "total": 27,
+    "ratio": 0.7037037037037037
+  },
+  {
+    "name": "Birmingham, Erdington",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "City of Durham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Brigg and Goole",
+    "self": 0,
+    "total": 16,
+    "ratio": 0.0
+  },
+  {
+    "name": "Birmingham, Hall Green",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Copeland",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Broadland",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Birmingham, Hodge Hill",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Coventry North West",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bury North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Birmingham, Yardley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Dagenham and Rainham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bury South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Blackley and Broughton",
+    "self": 0,
+    "total": 3,
+    "ratio": 0.0
+  },
+  {
+    "name": "Daventry",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Central Devon",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bognor Regis and Littlehampton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Derby North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Chatham and Aylesford",
+    "self": 0,
+    "total": 47,
+    "ratio": 0.0
+  },
+  {
+    "name": "Bolsover",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Derbyshire Dales",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Chipping Barnet",
+    "self": 6,
+    "total": 67,
+    "ratio": 0.08955223880597014
+  },
+  {
+    "name": "Bosworth",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Devizes",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Chorley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bradford South",
+    "self": 0,
+    "total": 42,
+    "ratio": 0.0
+  },
+  {
+    "name": "Dewsbury",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Cleethorpes",
+    "self": 1,
+    "total": 3,
+    "ratio": 0.3333333333333333
+  },
+  {
+    "name": "Bradford West",
+    "self": 2,
+    "total": 22,
+    "ratio": 0.09090909090909091
+  },
+  {
+    "name": "Doncaster Central",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Colne Valley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Brentford and Isleworth",
+    "self": 6,
+    "total": 233,
+    "ratio": 0.02575107296137339
+  },
+  {
+    "name": "Dudley South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Congleton",
+    "self": 4,
+    "total": 15,
+    "ratio": 0.26666666666666666
+  },
+  {
+    "name": "Brentwood and Ongar",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ealing Central and Acton",
+    "self": 7,
+    "total": 169,
+    "ratio": 0.04142011834319527
+  },
+  {
+    "name": "Crawley",
+    "self": 2,
+    "total": 94,
+    "ratio": 0.02127659574468085
+  },
+  {
+    "name": "Brighton, Pavilion",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ealing, Southall",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Crewe and Nantwich",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bromley and Chislehurst",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "East Ham",
+    "self": 7,
+    "total": 141,
+    "ratio": 0.04964539007092199
+  },
+  {
+    "name": "Croydon South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bromsgrove",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "East Surrey",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Dartford",
+    "self": 2,
+    "total": 27,
+    "ratio": 0.07407407407407407
+  },
+  {
+    "name": "Broxtowe",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "East Yorkshire",
+    "self": 4,
+    "total": 45,
+    "ratio": 0.08888888888888889
+  },
+  {
+    "name": "Derby South",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Buckingham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Eastbourne",
+    "self": 0,
+    "total": 16,
+    "ratio": 0.0
+  },
+  {
+    "name": "Don Valley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Burnley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Edmonton",
+    "self": 2,
+    "total": 135,
+    "ratio": 0.014814814814814815
+  },
+  {
+    "name": "Dudley North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Camberwell and Peckham",
+    "self": 2,
+    "total": 44,
+    "ratio": 0.045454545454545456
+  },
+  {
+    "name": "Enfield North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ealing North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Carshalton and Wallington",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Enfield, Southgate",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "East Worthing and Shoreham",
+    "self": 0,
+    "total": 49,
+    "ratio": 0.0
+  },
+  {
+    "name": "Castle Point",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Epsom and Ewell",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "Eddisbury",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Central Suffolk and North Ipswich",
+    "self": 1,
+    "total": 21,
+    "ratio": 0.047619047619047616
+  },
+  {
+    "name": "Esher and Walton",
+    "self": 0,
+    "total": 3,
+    "ratio": 0.0
+  },
+  {
+    "name": "Eltham",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "Charnwood",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Folkestone and Hythe",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Erith and Thamesmead",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Cheadle",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Forest of Dean",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Fareham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Chelsea and Fulham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Garston and Halewood",
+    "self": 0,
+    "total": 21,
+    "ratio": 0.0
+  },
+  {
+    "name": "Faversham and Mid Kent",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Chesham and Amersham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Gedling",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Filton and Bradley Stoke",
+    "self": 0,
+    "total": 10,
+    "ratio": 0.0
+  },
+  {
+    "name": "Chesterfield",
+    "self": 0,
+    "total": 75,
+    "ratio": 0.0
+  },
+  {
+    "name": "Gillingham and Rainham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Gainsborough",
+    "self": 1,
+    "total": 14,
+    "ratio": 0.07142857142857142
+  },
+  {
+    "name": "Chingford and Woodford Green",
+    "self": 1,
+    "total": 19,
+    "ratio": 0.05263157894736842
+  },
+  {
+    "name": "Gosport",
+    "self": 1,
+    "total": 17,
+    "ratio": 0.058823529411764705
+  },
+  {
+    "name": "Gateshead",
+    "self": 0,
+    "total": 17,
+    "ratio": 0.0
+  },
+  {
+    "name": "Chippenham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Grantham and Stamford",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Gravesham",
+    "self": 1,
+    "total": 14,
+    "ratio": 0.07142857142857142
+  },
+  {
+    "name": "Clacton",
+    "self": 1,
+    "total": 12,
+    "ratio": 0.08333333333333333
+  },
+  {
+    "name": "Guildford",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Great Grimsby",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Colchester",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Haltemprice and Howden",
+    "self": 0,
+    "total": 30,
+    "ratio": 0.0
+  },
+  {
+    "name": "Hackney South and Shoreditch",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Corby",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Harlow",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Halifax",
+    "self": 0,
+    "total": 38,
+    "ratio": 0.0
+  },
+  {
+    "name": "Coventry North East",
+    "self": 0,
+    "total": 54,
+    "ratio": 0.0
+  },
+  {
+    "name": "Harrow East",
+    "self": 0,
+    "total": 30,
+    "ratio": 0.0
+  },
+  {
+    "name": "Halton",
+    "self": 9,
+    "total": 32,
+    "ratio": 0.28125
+  },
+  {
+    "name": "Coventry South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hartlepool",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hammersmith",
+    "self": 1,
+    "total": 27,
+    "ratio": 0.037037037037037035
+  },
+  {
+    "name": "Croydon Central",
+    "self": 1,
+    "total": 30,
+    "ratio": 0.03333333333333333
+  },
+  {
+    "name": "Hayes and Harlington",
+    "self": 0,
+    "total": 32,
+    "ratio": 0.0
+  },
+  {
+    "name": "Harborough",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Croydon North",
+    "self": 0,
+    "total": 230,
+    "ratio": 0.0
+  },
+  {
+    "name": "Hendon",
+    "self": 9,
+    "total": 480,
+    "ratio": 0.01875
+  },
+  {
+    "name": "Harrogate and Knaresborough",
+    "self": 0,
+    "total": 3,
+    "ratio": 0.0
+  },
+  {
+    "name": "Darlington",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Henley",
+    "self": 0,
+    "total": 50,
+    "ratio": 0.0
+  },
+  {
+    "name": "Hastings and Rye",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Denton and Reddish",
+    "self": 0,
+    "total": 122,
+    "ratio": 0.0
+  },
+  {
+    "name": "Hertsmere",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hazel Grove",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Doncaster North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hexham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hemsworth",
+    "self": 0,
+    "total": 26,
+    "ratio": 0.0
+  },
+  {
+    "name": "Dover",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hornchurch and Upminster",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hertford and Stortford",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Dulwich and West Norwood",
+    "self": 15,
+    "total": 56,
+    "ratio": 0.26785714285714285
+  },
+  {
+    "name": "Hornsey and Wood Green",
+    "self": 20,
+    "total": 312,
+    "ratio": 0.0641025641025641
+  },
+  {
+    "name": "Hitchin and Harpenden",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Easington",
+    "self": 3,
+    "total": 180,
+    "ratio": 0.016666666666666666
+  },
+  {
+    "name": "Horsham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Houghton and Sunderland South",
+    "self": 0,
+    "total": 382,
+    "ratio": 0.0
+  },
+  {
+    "name": "East Devon",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hove",
+    "self": 0,
+    "total": 11,
+    "ratio": 0.0
+  },
+  {
+    "name": "Ilford North",
+    "self": 1,
+    "total": 227,
+    "ratio": 0.004405286343612335
+  },
+  {
+    "name": "East Hampshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Huddersfield",
+    "self": 18,
+    "total": 147,
+    "ratio": 0.12244897959183673
+  },
+  {
+    "name": "Ilford South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Eastleigh",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ipswich",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Keighley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ellesmere Port and Neston",
+    "self": 4,
+    "total": 233,
+    "ratio": 0.017167381974248927
+  },
+  {
+    "name": "Islington North",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Kingston upon Hull East",
+    "self": 2,
+    "total": 38,
+    "ratio": 0.05263157894736842
+  },
+  {
+    "name": "Elmet and Rothwell",
+    "self": 2,
+    "total": 15,
+    "ratio": 0.13333333333333333
+  },
+  {
+    "name": "Kenilworth and Southam",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Kingston upon Hull North",
+    "self": 4,
+    "total": 127,
+    "ratio": 0.031496062992125984
+  },
+  {
+    "name": "Epping Forest",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Kensington",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Knowsley",
+    "self": 2,
+    "total": 68,
+    "ratio": 0.029411764705882353
+  },
+  {
+    "name": "Erewash",
+    "self": 0,
+    "total": 18,
+    "ratio": 0.0
+  },
+  {
+    "name": "Kettering",
+    "self": 1,
+    "total": 15,
+    "ratio": 0.06666666666666667
+  },
+  {
+    "name": "Lancaster and Fleetwood",
+    "self": 1,
+    "total": 127,
+    "ratio": 0.007874015748031496
+  },
+  {
+    "name": "Exeter",
+    "self": 1,
+    "total": 46,
+    "ratio": 0.021739130434782608
+  },
+  {
+    "name": "Kingston and Surbiton",
+    "self": 0,
+    "total": 11,
+    "ratio": 0.0
+  },
+  {
+    "name": "Leeds Central",
+    "self": 11,
+    "total": 119,
+    "ratio": 0.09243697478991597
+  },
+  {
+    "name": "Feltham and Heston",
+    "self": 11,
+    "total": 375,
+    "ratio": 0.029333333333333333
+  },
+  {
+    "name": "Kingswood",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Leicester East",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Finchley and Golders Green",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Leeds East",
+    "self": 0,
+    "total": 26,
+    "ratio": 0.0
+  },
+  {
+    "name": "Leicester South",
+    "self": 0,
+    "total": 316,
+    "ratio": 0.0
+  },
+  {
+    "name": "Fylde",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Leeds North East",
+    "self": 0,
+    "total": 106,
+    "ratio": 0.0
+  },
+  {
+    "name": "Leicester West",
+    "self": 0,
+    "total": 91,
+    "ratio": 0.0
+  },
+  {
+    "name": "Gloucester",
+    "self": 4,
+    "total": 6,
+    "ratio": 0.6666666666666666
+  },
+  {
+    "name": "Leeds North West",
+    "self": 2,
+    "total": 152,
+    "ratio": 0.013157894736842105
+  },
+  {
+    "name": "Leigh",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Great Yarmouth",
+    "self": 2,
+    "total": 14,
+    "ratio": 0.14285714285714285
+  },
+  {
+    "name": "Lewisham East",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Lewes",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Greenwich and Woolwich",
+    "self": 5,
+    "total": 58,
+    "ratio": 0.08620689655172414
+  },
+  {
+    "name": "Lichfield",
+    "self": 2,
+    "total": 22,
+    "ratio": 0.09090909090909091
+  },
+  {
+    "name": "Lewisham West and Penge",
+    "self": 0,
+    "total": 85,
+    "ratio": 0.0
+  },
+  {
+    "name": "Hackney North and Stoke Newington",
+    "self": 0,
+    "total": 2,
+    "ratio": 0.0
+  },
+  {
+    "name": "Liverpool, Walton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Liverpool, Wavertree",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Halesowen and Rowley Regis",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Ludlow",
+    "self": 0,
+    "total": 4,
+    "ratio": 0.0
+  },
+  {
+    "name": "Loughborough",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hampstead and Kilburn",
+    "self": 2,
+    "total": 138,
+    "ratio": 0.014492753623188406
+  },
+  {
+    "name": "Luton North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Maidenhead",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Harrow West",
+    "self": 1,
+    "total": 153,
+    "ratio": 0.006535947712418301
+  },
+  {
+    "name": "Luton South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Maldon",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Harwich and North Essex",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "Macclesfield",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Meon Valley",
+    "self": 0,
+    "total": 4,
+    "ratio": 0.0
+  },
+  {
+    "name": "Havant",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Maidstone and The Weald",
+    "self": 0,
+    "total": 4,
+    "ratio": 0.0
+  },
+  {
+    "name": "Mid Sussex",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hemel Hempstead",
+    "self": 3,
+    "total": 26,
+    "ratio": 0.11538461538461539
+  },
+  {
+    "name": "Manchester Central",
+    "self": 1,
+    "total": 50,
+    "ratio": 0.02
+  },
+  {
+    "name": "Middlesbrough South and East Cleveland",
+    "self": 0,
+    "total": 2,
+    "ratio": 0.0
+  },
+  {
+    "name": "Hereford and South Herefordshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Manchester, Gorton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Milton Keynes North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Heywood and Middleton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Manchester, Withington",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Morecambe and Lunesdale",
+    "self": 0,
+    "total": 15,
+    "ratio": 0.0
+  },
+  {
+    "name": "High Peak",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Meriden",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Morley and Outwood",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "Holborn and St Pancras",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Mid Bedfordshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "New Forest West",
+    "self": 0,
+    "total": 13,
+    "ratio": 0.0
+  },
+  {
+    "name": "Huntingdon",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "Mid Derbyshire",
+    "self": 0,
+    "total": 20,
+    "ratio": 0.0
+  },
+  {
+    "name": "Newark",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Hyndburn",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Middlesbrough",
+    "self": 1,
+    "total": 14,
+    "ratio": 0.07142857142857142
+  },
+  {
+    "name": "Newcastle upon Tyne Central",
+    "self": 32,
+    "total": 415,
+    "ratio": 0.07710843373493977
+  },
+  {
+    "name": "Isle of Wight",
+    "self": 4,
+    "total": 22,
+    "ratio": 0.18181818181818182
+  },
+  {
+    "name": "Milton Keynes South",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Newton Abbot",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "Islington South and Finsbury",
+    "self": 3,
+    "total": 472,
+    "ratio": 0.006355932203389831
+  },
+  {
+    "name": "Mitcham and Morden",
+    "self": 4,
+    "total": 39,
+    "ratio": 0.10256410256410256
+  },
+  {
+    "name": "North East Cambridgeshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Jarrow",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Mole Valley",
+    "self": 0,
+    "total": 14,
+    "ratio": 0.0
+  },
+  {
+    "name": "North East Hertfordshire",
+    "self": 3,
+    "total": 10,
+    "ratio": 0.3
+  },
+  {
+    "name": "Kingston upon Hull West and Hessle",
+    "self": 3,
+    "total": 155,
+    "ratio": 0.01935483870967742
+  },
+  {
+    "name": "New Forest East",
+    "self": 1,
+    "total": 18,
+    "ratio": 0.05555555555555555
+  },
+  {
+    "name": "North Herefordshire",
+    "self": 1,
+    "total": 63,
+    "ratio": 0.015873015873015872
+  },
+  {
+    "name": "Leeds West",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Newcastle upon Tyne North",
+    "self": 0,
+    "total": 17,
+    "ratio": 0.0
+  },
+  {
+    "name": "North Shropshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Lewisham, Deptford",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North Cornwall",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North Somerset",
+    "self": 0,
+    "total": 18,
+    "ratio": 0.0
+  },
+  {
+    "name": "Leyton and Wanstead",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "North Dorset",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North Swindon",
+    "self": 0,
+    "total": 8,
+    "ratio": 0.0
+  },
+  {
+    "name": "Lincoln",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "North East Bedfordshire",
+    "self": 0,
+    "total": 17,
+    "ratio": 0.0
+  },
+  {
+    "name": "North Tyneside",
+    "self": 0,
+    "total": 39,
+    "ratio": 0.0
+  },
+  {
+    "name": "Liverpool, Riverside",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North East Derbyshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North Warwickshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Liverpool, West Derby",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North East Somerset",
+    "self": 0,
+    "total": 7,
+    "ratio": 0.0
+  },
+  {
+    "name": "North West Norfolk",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Louth and Horncastle",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North Thanet",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Norwich North",
+    "self": 0,
+    "total": 15,
+    "ratio": 0.0
+  },
+  {
+    "name": "Makerfield",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "North West Leicestershire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Orpington",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Mansfield",
+    "self": 0,
+    "total": 13,
+    "ratio": 0.0
+  },
+  {
+    "name": "North Wiltshire",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Oxford West and Abingdon",
+    "self": 3,
+    "total": 64,
+    "ratio": 0.046875
+  },
+  {
+    "name": "Mid Dorset and North Poole",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Northampton South",
+    "self": 1,
+    "total": 44,
+    "ratio": 0.022727272727272728
+  },
+  {
+    "name": "Peterborough",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Mid Norfolk",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Nottingham East",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Plymouth, Sutton and Devonport",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Mid Worcestershire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Nottingham South",
+    "self": 5,
+    "total": 52,
+    "ratio": 0.09615384615384616
+  },
+  {
+    "name": "Poole",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Newbury",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Nuneaton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Poplar and Limehouse",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Newcastle upon Tyne East",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Oldham West and Royton",
+    "self": 0,
+    "total": 64,
+    "ratio": 0.0
+  },
+  {
+    "name": "Portsmouth North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Newcastle-under-Lyme",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Oxford East",
+    "self": 7,
+    "total": 129,
+    "ratio": 0.05426356589147287
+  },
+  {
+    "name": "Reading West",
+    "self": 0,
+    "total": 2,
+    "ratio": 0.0
+  },
+  {
+    "name": "Normanton, Pontefract and Castleford",
+    "self": 0,
+    "total": 10,
+    "ratio": 0.0
+  },
+  {
+    "name": "Penrith and The Border",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Redcar",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North Devon",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Plymouth, Moor View",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Redditch",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "North Durham",
+    "self": 0,
+    "total": 317,
+    "ratio": 0.0
+  },
+  {
+    "name": "Portsmouth South",
+    "self": 39,
+    "total": 401,
+    "ratio": 0.09725685785536159
+  },
+  {
+    "name": "Reigate",
+    "self": 0,
+    "total": 52,
+    "ratio": 0.0
+  },
+  {
+    "name": "North East Hampshire",
+    "self": 0,
+    "total": 47,
+    "ratio": 0.0
+  },
+  {
+    "name": "Pudsey",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Richmond (Yorks)",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North Norfolk",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Putney",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Rochester and Strood",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North West Cambridgeshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Rayleigh and Wickford",
+    "self": 0,
+    "total": 54,
+    "ratio": 0.0
+  },
+  {
+    "name": "Romford",
+    "self": 20,
+    "total": 411,
+    "ratio": 0.04866180048661801
+  },
+  {
+    "name": "North West Durham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ribble Valley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Rotherham",
+    "self": 2,
+    "total": 79,
+    "ratio": 0.02531645569620253
+  },
+  {
+    "name": "North West Hampshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Rochford and Southend East",
+    "self": 1,
+    "total": 7,
+    "ratio": 0.14285714285714285
+  },
+  {
+    "name": "Runnymede and Weybridge",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Northampton North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Romsey and Southampton North",
+    "self": 1,
+    "total": 49,
+    "ratio": 0.02040816326530612
+  },
+  {
+    "name": "Rushcliffe",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Norwich South",
+    "self": 0,
+    "total": 14,
+    "ratio": 0.0
+  },
+  {
+    "name": "Rugby",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "Rutland and Melton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Nottingham North",
+    "self": 0,
+    "total": 40,
+    "ratio": 0.0
+  },
+  {
+    "name": "Salisbury",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Scarborough and Whitby",
+    "self": 3,
+    "total": 3,
+    "ratio": 1.0
+  },
+  {
+    "name": "Old Bexley and Sidcup",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Scunthorpe",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Selby and Ainsty",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Oldham East and Saddleworth",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "Sevenoaks",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Sleaford and North Hykeham",
+    "self": 0,
+    "total": 8,
+    "ratio": 0.0
+  },
+  {
+    "name": "Pendle",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Sheffield Central",
+    "self": 0,
+    "total": 21,
+    "ratio": 0.0
+  },
+  {
+    "name": "South Basildon and East Thurrock",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Penistone and Stocksbridge",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Sheffield South East",
+    "self": 0,
+    "total": 31,
+    "ratio": 0.0
+  },
+  {
+    "name": "South Norfolk",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Preston",
+    "self": 4,
+    "total": 40,
+    "ratio": 0.1
+  },
+  {
+    "name": "Sheffield, Hallam",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South West Wiltshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Reading East",
+    "self": 1,
+    "total": 7,
+    "ratio": 0.14285714285714285
+  },
+  {
+    "name": "Sheffield, Heeley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Staffordshire Moorlands",
+    "self": 0,
+    "total": 3,
+    "ratio": 0.0
+  },
+  {
+    "name": "Richmond Park",
+    "self": 0,
+    "total": 230,
+    "ratio": 0.0
+  },
+  {
+    "name": "Sherwood",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Stockport",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Rochdale",
+    "self": 3,
+    "total": 72,
+    "ratio": 0.041666666666666664
+  },
+  {
+    "name": "Solihull",
+    "self": 98,
+    "total": 1008,
+    "ratio": 0.09722222222222222
+  },
+  {
+    "name": "Stockton North",
+    "self": 0,
+    "total": 144,
+    "ratio": 0.0
+  },
+  {
+    "name": "Rossendale and Darwen",
+    "self": 2,
+    "total": 2,
+    "ratio": 1.0
+  },
+  {
+    "name": "South Derbyshire",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Stockton South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Rother Valley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South Dorset",
+    "self": 3,
+    "total": 34,
+    "ratio": 0.08823529411764706
+  },
+  {
+    "name": "Streatham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Ruislip, Northwood and Pinner",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South East Cambridgeshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Stretford and Urmston",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Saffron Walden",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South Holland and The Deepings",
+    "self": 0,
+    "total": 206,
+    "ratio": 0.0
+  },
+  {
+    "name": "Stroud",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Salford and Eccles",
+    "self": 0,
+    "total": 32,
+    "ratio": 0.0
+  },
+  {
+    "name": "South Leicestershire",
+    "self": 0,
+    "total": 38,
+    "ratio": 0.0
+  },
+  {
+    "name": "Surrey Heath",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Sedgefield",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South Northamptonshire",
+    "self": 5,
+    "total": 11,
+    "ratio": 0.45454545454545453
+  },
+  {
+    "name": "Sutton and Cheam",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Sefton Central",
+    "self": 3,
+    "total": 416,
+    "ratio": 0.007211538461538462
+  },
+  {
+    "name": "South Ribble",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Tatton",
+    "self": 0,
+    "total": 45,
+    "ratio": 0.0
+  },
+  {
+    "name": "Sheffield, Brightside and Hillsborough",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South Swindon",
+    "self": 0,
+    "total": 27,
+    "ratio": 0.0
+  },
+  {
+    "name": "Taunton Deane",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Shipley",
+    "self": 5,
+    "total": 63,
+    "ratio": 0.07936507936507936
+  },
+  {
+    "name": "South Thanet",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "The Wrekin",
+    "self": 0,
+    "total": 64,
+    "ratio": 0.0
+  },
+  {
+    "name": "Shrewsbury and Atcham",
+    "self": 24,
+    "total": 133,
+    "ratio": 0.18045112781954886
+  },
+  {
+    "name": "South West Devon",
+    "self": 0,
+    "total": 14,
+    "ratio": 0.0
+  },
+  {
+    "name": "Tooting",
+    "self": 19,
+    "total": 181,
+    "ratio": 0.10497237569060773
+  },
+  {
+    "name": "Sittingbourne and Sheppey",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "South West Norfolk",
+    "self": 0,
+    "total": 16,
+    "ratio": 0.0
+  },
+  {
+    "name": "Torbay",
+    "self": 0,
+    "total": 4,
+    "ratio": 0.0
+  },
+  {
+    "name": "Skipton and Ripon",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South West Surrey",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Truro and Falmouth",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Slough",
+    "self": 19,
+    "total": 664,
+    "ratio": 0.0286144578313253
+  },
+  {
+    "name": "Southampton, Itchen",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Tunbridge Wells",
+    "self": 1,
+    "total": 5,
+    "ratio": 0.2
+  },
+  {
+    "name": "Somerton and Frome",
+    "self": 4,
+    "total": 61,
+    "ratio": 0.06557377049180328
+  },
+  {
+    "name": "Southampton, Test",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Walsall South",
+    "self": 5,
+    "total": 30,
+    "ratio": 0.16666666666666666
+  },
+  {
+    "name": "South Cambridgeshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Southend West",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Wantage",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South East Cornwall",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Southport",
+    "self": 15,
+    "total": 172,
+    "ratio": 0.0872093023255814
+  },
+  {
+    "name": "Warrington North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South Shields",
+    "self": 1,
+    "total": 81,
+    "ratio": 0.012345679012345678
+  },
+  {
+    "name": "St Albans",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Warrington South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South Staffordshire",
+    "self": 1,
+    "total": 47,
+    "ratio": 0.02127659574468085
+  },
+  {
+    "name": "St Austell and Newquay",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Washington and Sunderland West",
+    "self": 0,
+    "total": 57,
+    "ratio": 0.0
+  },
+  {
+    "name": "South Suffolk",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "St Helens North",
+    "self": 0,
+    "total": 21,
+    "ratio": 0.0
+  },
+  {
+    "name": "Waveney",
+    "self": 0,
+    "total": 27,
+    "ratio": 0.0
+  },
+  {
+    "name": "South West Bedfordshire",
+    "self": 0,
+    "total": 52,
+    "ratio": 0.0
+  },
+  {
+    "name": "Stafford",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Weaver Vale",
+    "self": 3,
+    "total": 167,
+    "ratio": 0.017964071856287425
+  },
+  {
+    "name": "South West Hertfordshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Stoke-on-Trent North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Wellingborough",
+    "self": 0,
+    "total": 8,
+    "ratio": 0.0
+  },
+  {
+    "name": "Spelthorne",
+    "self": 0,
+    "total": 7,
+    "ratio": 0.0
+  },
+  {
+    "name": "Stourbridge",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "West Bromwich East",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "St Helens South and Whiston",
+    "self": 2,
+    "total": 5,
+    "ratio": 0.4
+  },
+  {
+    "name": "Suffolk Coastal",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "West Bromwich West",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "St Ives",
+    "self": 2,
+    "total": 75,
+    "ratio": 0.02666666666666667
+  },
+  {
+    "name": "Telford",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "West Dorset",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Stalybridge and Hyde",
+    "self": 0,
+    "total": 25,
+    "ratio": 0.0
+  },
+  {
+    "name": "The Cotswolds",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "Winchester",
+    "self": 0,
+    "total": 4,
+    "ratio": 0.0
+  },
+  {
+    "name": "Stevenage",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "Tonbridge and Malling",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Wirral West",
+    "self": 0,
+    "total": 46,
+    "ratio": 0.0
+  },
+  {
+    "name": "Stoke-on-Trent Central",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Torridge and West Devon",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wokingham",
+    "self": 0,
+    "total": 66,
+    "ratio": 0.0
+  },
+  {
+    "name": "Stoke-on-Trent South",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "Totnes",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Wolverhampton South West",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Stone",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Tottenham",
+    "self": 0,
+    "total": 46,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wyre Forest",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "Stratford-on-Avon",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Tynemouth",
+    "self": 0,
+    "total": 8,
+    "ratio": 0.0
+  },
+  {
+    "name": "Yeovil",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Sunderland Central",
+    "self": 5,
+    "total": 44,
+    "ratio": 0.11363636363636363
+  },
+  {
+    "name": "Uxbridge and South Ruislip",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "York Central",
+    "self": 113,
+    "total": 1524,
+    "ratio": 0.07414698162729659
+  },
+  {
+    "name": "Sutton Coldfield",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Vauxhall",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Belfast North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Tamworth",
+    "self": 0,
+    "total": 29,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wakefield",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Mid Ulster",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Tewkesbury",
+    "self": 5,
+    "total": 61,
+    "ratio": 0.08196721311475409
+  },
+  {
+    "name": "Wansbeck",
+    "self": 0,
+    "total": 28,
+    "ratio": 0.0
+  },
+  {
+    "name": "Newry and Armagh",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Thirsk and Malton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Warley",
+    "self": 0,
+    "total": 62,
+    "ratio": 0.0
+  },
+  {
+    "name": "North Down",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Thornbury and Yate",
+    "self": 0,
+    "total": 7,
+    "ratio": 0.0
+  },
+  {
+    "name": "Welwyn Hatfield",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South Down",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Thurrock",
+    "self": 0,
+    "total": 2,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wentworth and Dearne",
+    "self": 0,
+    "total": 1244,
+    "ratio": 0.0
+  },
+  {
+    "name": "Airdrie and Shotts",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Tiverton and Honiton",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "West Ham",
+    "self": 0,
+    "total": 175,
+    "ratio": 0.0
+  },
+  {
+    "name": "Ayr, Carrick and Cumnock",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Twickenham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "West Lancashire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Dumfriesshire, Clydesdale and Tweeddale",
+    "self": 0,
+    "total": 29,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wallasey",
+    "self": 1,
+    "total": 21,
+    "ratio": 0.047619047619047616
+  },
+  {
+    "name": "Westminster North",
+    "self": 0,
+    "total": 22,
+    "ratio": 0.0
+  },
+  {
+    "name": "Dundee East",
+    "self": 0,
+    "total": 10,
+    "ratio": 0.0
+  },
+  {
+    "name": "Walsall North",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wigan",
+    "self": 2,
+    "total": 45,
+    "ratio": 0.044444444444444446
+  },
+  {
+    "name": "Dundee West",
+    "self": 0,
+    "total": 37,
+    "ratio": 0.0
+  },
+  {
+    "name": "Walthamstow",
+    "self": 0,
+    "total": 107,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wirral South",
+    "self": 4,
+    "total": 143,
+    "ratio": 0.027972027972027972
+  },
+  {
+    "name": "East Kilbride, Strathaven and Lesmahagow",
+    "self": 0,
+    "total": 30,
+    "ratio": 0.0
+  },
+  {
+    "name": "Warwick and Leamington",
+    "self": 25,
+    "total": 205,
+    "ratio": 0.12195121951219512
+  },
+  {
+    "name": "Witney",
+    "self": 0,
+    "total": 20,
+    "ratio": 0.0
+  },
+  {
+    "name": "Edinburgh West",
+    "self": 0,
+    "total": 37,
+    "ratio": 0.0
+  },
+  {
+    "name": "Watford",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Wolverhampton North East",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Na h-Eileanan an Iar",
+    "self": 1,
+    "total": 18,
+    "ratio": 0.05555555555555555
+  },
+  {
+    "name": "Wealden",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Wolverhampton South East",
+    "self": 0,
+    "total": 25,
+    "ratio": 0.0
+  },
+  {
+    "name": "Falkirk",
+    "self": 2,
+    "total": 29,
+    "ratio": 0.06896551724137931
+  },
+  {
+    "name": "Wells",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Worthing West",
+    "self": 0,
+    "total": 10,
+    "ratio": 0.0
+  },
+  {
+    "name": "Glasgow Central",
+    "self": 6,
+    "total": 65,
+    "ratio": 0.09230769230769231
+  },
+  {
+    "name": "West Suffolk",
+    "self": 0,
+    "total": 68,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wyre and Preston North",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Glasgow North East",
+    "self": 0,
+    "total": 25,
+    "ratio": 0.0
+  },
+  {
+    "name": "West Worcestershire",
+    "self": 0,
+    "total": 11,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wythenshawe and Sale East",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "Glasgow North West",
+    "self": 1,
+    "total": 51,
+    "ratio": 0.0196078431372549
+  },
+  {
+    "name": "Westmorland and Lonsdale",
+    "self": 6,
+    "total": 145,
+    "ratio": 0.041379310344827586
+  },
+  {
+    "name": "York Outer",
+    "self": 0,
+    "total": 78,
+    "ratio": 0.0
+  },
+  {
+    "name": "Kirkcaldy and Cowdenbeath",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Weston-Super-Mare",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Belfast East",
+    "self": 0,
+    "total": 7,
+    "ratio": 0.0
+  },
+  {
+    "name": "Lanark and Hamilton East",
+    "self": 0,
+    "total": 57,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wimbledon",
+    "self": 0,
+    "total": 25,
+    "ratio": 0.0
+  },
+  {
+    "name": "Belfast South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Linlithgow and East Falkirk",
+    "self": 0,
+    "total": 150,
+    "ratio": 0.0
+  },
+  {
+    "name": "Windsor",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "East Antrim",
+    "self": 0,
+    "total": 40,
+    "ratio": 0.0
+  },
+  {
+    "name": "Midlothian",
+    "self": 0,
+    "total": 25,
+    "ratio": 0.0
+  },
+  {
+    "name": "Witham",
+    "self": 0,
+    "total": 49,
+    "ratio": 0.0
+  },
+  {
+    "name": "Foyle",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "North Ayrshire and Arran",
+    "self": 0,
+    "total": 34,
+    "ratio": 0.0
+  },
+  {
+    "name": "Woking",
+    "self": 2,
+    "total": 40,
+    "ratio": 0.05
+  },
+  {
+    "name": "Lagan Valley",
+    "self": 0,
+    "total": 6,
+    "ratio": 0.0
+  },
+  {
+    "name": "North East Fife",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Worcester",
+    "self": 0,
+    "total": 12,
+    "ratio": 0.0
+  },
+  {
+    "name": "Strangford",
+    "self": 0,
+    "total": 524,
+    "ratio": 0.0
+  },
+  {
+    "name": "Ochil and South Perthshire",
+    "self": 1,
+    "total": 2,
+    "ratio": 0.5
+  },
+  {
+    "name": "Workington",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Aberdeen South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Paisley and Renfrewshire North",
+    "self": 0,
+    "total": 20,
+    "ratio": 0.0
+  },
+  {
+    "name": "Worsley and Eccles South",
+    "self": 0,
+    "total": 71,
+    "ratio": 0.0
+  },
+  {
+    "name": "Banff and Buchan",
+    "self": 0,
+    "total": 7,
+    "ratio": 0.0
+  },
+  {
+    "name": "Ross, Skye and Lochaber",
+    "self": 0,
+    "total": 7,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wycombe",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Berwickshire, Roxburgh and Selkirk",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Rutherglen and Hamilton West",
+    "self": 0,
+    "total": 43,
+    "ratio": 0.0
+  },
+  {
+    "name": "Belfast West",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Caithness, Sutherland and Easter Ross",
+    "self": 0,
+    "total": 22,
+    "ratio": 0.0
+  },
+  {
+    "name": "West Aberdeenshire and Kincardine",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "East Londonderry",
+    "self": 0,
+    "total": 160,
+    "ratio": 0.0
+  },
+  {
+    "name": "Central Ayrshire",
+    "self": 0,
+    "total": 26,
+    "ratio": 0.0
+  },
+  {
+    "name": "West Dunbartonshire",
+    "self": 1,
+    "total": 16,
+    "ratio": 0.0625
+  },
+  {
+    "name": "Fermanagh and South Tyrone",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Coatbridge, Chryston and Bellshill",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Alyn and Deeside",
+    "self": 0,
+    "total": 15,
+    "ratio": 0.0
+  },
+  {
+    "name": "North Antrim",
+    "self": 0,
+    "total": 22,
+    "ratio": 0.0
+  },
+  {
+    "name": "Cumbernauld, Kilsyth and Kirkintilloch East",
+    "self": 0,
+    "total": 44,
+    "ratio": 0.0
+  },
+  {
+    "name": "Wrexham",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "South Antrim",
+    "self": 0,
+    "total": 18,
+    "ratio": 0.0
+  },
+  {
+    "name": "Dumfries and Galloway",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Aberavon",
+    "self": 1,
+    "total": 115,
+    "ratio": 0.008695652173913044
+  },
+  {
+    "name": "Upper Bann",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Dunfermline and West Fife",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Monmouth",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "West Tyrone",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "East Dunbartonshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Newport East",
+    "self": 0,
+    "total": 151,
+    "ratio": 0.0
+  },
+  {
+    "name": "Aberdeen North",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "East Lothian",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Montgomeryshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Angus",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "East Renfrewshire",
+    "self": 0,
+    "total": 80,
+    "ratio": 0.0
+  },
+  {
+    "name": "Ceredigion",
+    "self": 10,
+    "total": 121,
+    "ratio": 0.08264462809917356
+  },
+  {
+    "name": "Argyll and Bute",
+    "self": 0,
+    "total": 8,
+    "ratio": 0.0
+  },
+  {
+    "name": "Edinburgh South",
+    "self": 0,
+    "total": 27,
+    "ratio": 0.0
+  },
+  {
+    "name": "Carmarthen East and Dinefwr",
+    "self": 1,
+    "total": 58,
+    "ratio": 0.017241379310344827
+  },
+  {
+    "name": "Edinburgh East",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "Glasgow East",
+    "self": 0,
+    "total": 68,
+    "ratio": 0.0
+  },
+  {
+    "name": "Cynon Valley",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Edinburgh North and Leith",
+    "self": 2,
+    "total": 57,
+    "ratio": 0.03508771929824561
+  },
+  {
+    "name": "Glasgow North",
+    "self": 0,
+    "total": 70,
+    "ratio": 0.0
+  },
+  {
+    "name": "Blaenau Gwent",
+    "self": 0,
+    "total": 19,
+    "ratio": 0.0
+  },
+  {
+    "name": "Edinburgh South West",
+    "self": 0,
+    "total": 1,
+    "ratio": 0.0
+  },
+  {
+    "name": "Livingston",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Pontypridd",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Glasgow South",
+    "self": 0,
+    "total": 35,
+    "ratio": 0.0
+  },
+  {
+    "name": "Motherwell and Wishaw",
+    "self": 0,
+    "total": 20,
+    "ratio": 0.0
+  },
+  {
+    "name": "Vale of Glamorgan",
+    "self": 0,
+    "total": 21,
+    "ratio": 0.0
+  },
+  {
+    "name": "Glasgow South West",
+    "self": 0,
+    "total": 200,
+    "ratio": 0.0
+  },
+  {
+    "name": "Ynys M\u00f4n",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Cardiff West",
+    "self": 1,
+    "total": 19,
+    "ratio": 0.05263157894736842
+  },
+  {
+    "name": "Glenrothes",
+    "self": 0,
+    "total": 5,
+    "ratio": 0.0
+  },
+  {
+    "name": "Delyn",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Gordon",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Llanelli",
+    "self": 2,
+    "total": 11,
+    "ratio": 0.18181818181818182
+  },
+  {
+    "name": "Inverclyde",
+    "self": 0,
+    "total": 9,
+    "ratio": 0.0
+  },
+  {
+    "name": "Gower",
+    "self": 0,
+    "total": 86,
+    "ratio": 0.0
+  },
+  {
+    "name": "Inverness, Nairn, Badenoch and Strathspey",
+    "self": 0,
+    "total": 88,
+    "ratio": 0.0
+  },
+  {
+    "name": "Swansea West",
+    "self": 0,
+    "total": 119,
+    "ratio": 0.0
+  },
+  {
+    "name": "Kilmarnock and Loudoun",
+    "self": 1,
+    "total": 91,
+    "ratio": 0.01098901098901099
+  },
+  {
+    "name": "Cardiff Central",
+    "self": 7,
+    "total": 32,
+    "ratio": 0.21875
+  },
+  {
+    "name": "Moray",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Cardiff North",
+    "self": 0,
+    "total": 15,
+    "ratio": 0.0
+  },
+  {
+    "name": "Orkney and Shetland",
+    "self": 0,
+    "total": 44,
+    "ratio": 0.0
+  },
+  {
+    "name": "Rhondda",
+    "self": 0,
+    "total": 11,
+    "ratio": 0.0
+  },
+  {
+    "name": "Paisley and Renfrewshire South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Torfaen",
+    "self": 0,
+    "total": 47,
+    "ratio": 0.0
+  },
+  {
+    "name": "Perth and North Perthshire",
+    "self": 0,
+    "total": 3,
+    "ratio": 0.0
+  },
+  {
+    "name": "Newport West",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Stirling",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Arfon",
+    "self": 0,
+    "total": 84,
+    "ratio": 0.0
+  },
+  {
+    "name": "Swansea East",
+    "self": 0,
+    "total": 24,
+    "ratio": 0.0
+  },
+  {
+    "name": "Clwyd West",
+    "self": 0,
+    "total": 26,
+    "ratio": 0.0
+  },
+  {
+    "name": "Aberconwy",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Carmarthen West and South Pembrokeshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Vale of Clwyd",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Neath",
+    "self": 0,
+    "total": 8,
+    "ratio": 0.0
+  },
+  {
+    "name": "Dwyfor Meirionnydd",
+    "self": 1,
+    "total": 55,
+    "ratio": 0.01818181818181818
+  },
+  {
+    "name": "Merthyr Tydfil and Rhymney",
+    "self": 4,
+    "total": 22,
+    "ratio": 0.18181818181818182
+  },
+  {
+    "name": "Clwyd South",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Bridgend",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Preseli Pembrokeshire",
+    "self": 1,
+    "total": 28,
+    "ratio": 0.03571428571428571
+  },
+  {
+    "name": "Ogmore",
+    "self": 0,
+    "total": 3,
+    "ratio": 0.0
+  },
+  {
+    "name": "Brecon and Radnorshire",
+    "self": 0,
+    "total": 0,
+    "ratio": 0
+  },
+  {
+    "name": "Islwyn",
+    "self": 0,
+    "total": 27,
+    "ratio": 0.0
+  },
+  {
+    "name": "Caerphilly",
+    "self": 0,
+    "total": 13,
+    "ratio": 0.0
+  },
+  {
+    "name": "Cardiff South and Penarth",
+    "self": 0,
+    "total": 39,
+    "ratio": 0.0
+  }
+]
